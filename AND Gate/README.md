@@ -37,7 +37,7 @@ T=30 → a=1, b=1 → y=1
 
 ### 📉 Waveform:
 
-![AND Gate Waveform](waveform.png)
+![AND Gate Waveform](Waveform.png)
 
 The waveform confirms that output `y` is high **only when both `a` and `b` are high** — as expected from an AND gate.
 
