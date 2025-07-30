@@ -30,7 +30,7 @@ T=30 → a=1, b=1 → y=1
 
 ### 📉 Waveform
 
-![Waveform](Waveform.jpg)
+![Waveform](Waveform.png)
 
 The waveform clearly shows the correct output transitions according to the OR gate truth table.
 
