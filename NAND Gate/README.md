@@ -35,7 +35,7 @@ A NAND (NOT AND) gate is a fundamental digital logic gate that outputs logic LOW
 ## 🔗 Useful Links
 
 - **EDA Playground Simulation**: [Run the simulation here](https://edaplayground.com/x/F_vA)
-- **GitHub Repository**: [View the project on GitHub](https://github.com/yourusername/verilog-coding-streak)
+- **GitHub Repository**: [View the project on GitHub](https://github.com/mitanshigaur09/Verilog/tree/main/NAND%20Gate)
 
 ## 🧠 Learning Outcome
 
