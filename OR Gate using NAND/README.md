@@ -30,7 +30,7 @@ This repository is part of my **#VerilogCodingStreak**, where I implement and si
 ## 📎 Links
 
 - ▶️ **EDA Playground**: [https://edaplayground.com/x/Nky_](https://edaplayground.com/x/Nky_)
-- 📂 **GitHub Repository**: [https://github.com/MitanshiGaur/Verilog-Coding-Streak](https://github.com/MitanshiGaur/Verilog-Coding-Streak)
+- 📂 **GitHub Repository**: [https://github.com/mitanshigaur09/Verilog/tree/main/OR%20Gate%20using%20NAND](https://github.com/mitanshigaur09/Verilog/tree/main/OR%20Gate%20using%20NAND)
 
 ---
 
