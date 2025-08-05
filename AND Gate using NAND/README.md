@@ -20,7 +20,7 @@ This project demonstrates the use of **NAND gates to construct an AND gate**, co
 
 ## 🔗 Links
 - ▶️ **EDA Playground Simulation**: [Click here to run](https://edaplayground.com/x/tLA2)  
-- 📁 **GitHub Repository**: [Verilog-Streak on GitHub](https://github.com/MitanshiGaur/Verilog-Streak)
+- 📁 **GitHub Repository**: [Verilog-Streak on GitHub](https://github.com/mitanshigaur09/Verilog/tree/main/AND%20Gate%20using%20NAND)
 
 ## 📷 Output Snapshots
 ### Waveform Viewer
