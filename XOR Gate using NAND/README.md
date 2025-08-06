@@ -24,7 +24,7 @@ Both console output and waveform viewer confirmed the correct XOR behavior.
 
 ## 🔗 Useful Links
 - 💻 [EDA Playground Simulation](https://edaplayground.com/x/EbaG)  
-- 📂 [GitHub Repository](https://github.com/MitanshiGaur/Verilog-Coding-Streak)
+- 📂 [GitHub Repository](https://github.com/mitanshigaur09/Verilog/tree/main/XOR%20Gate%20using%20NAND)
 
 ## 🚀 What's Next?
 The journey continues with more combinational modules and eventually into sequential and FSM-based designs. Stay tuned for Day 10!
