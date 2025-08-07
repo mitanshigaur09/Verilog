@@ -25,7 +25,7 @@ The waveform confirms correct XNOR functionality.
 
 ## 🔗 Useful Links
 - 💻 [Try it on EDA Playground](https://edaplayground.com/x/hiHx)  
-- 📂 [GitHub Repository](https://github.com/mitanshigaur/verilog-coding-streak)
+- 📂 [GitHub Repository](https://github.com/mitanshigaur09/Verilog/tree/main/XNOR%20Gate%20using%20NAND)
 
 ## 🚀 Join the Journey
 This project is part of my #VerilogCodingStreak, where I share daily Verilog design challenges, testbenches, and simulations to strengthen RTL design skills.
