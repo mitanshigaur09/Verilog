@@ -34,7 +34,7 @@ Simulation outputs and waveforms match the expected truth table perfectly.
 
 ## 🔗 Explore More
 - **EDA Playground Link:** [Click Here](https://edaplayground.com/x/JTjT)  
-- **GitHub Repo:** [Verilog Coding Streak](https://github.com/mitanshigaur/verilog-coding-streak)  
+- **GitHub Repo:** [Verilog Coding](https://github.com/mitanshigaur09/Verilog/tree/main)  
 
 ---
 
