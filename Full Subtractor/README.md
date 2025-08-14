@@ -23,8 +23,8 @@ It’s a critical component in arithmetic logic for subtraction operations in pr
 The waveform and simulation log perfectly matched the theoretical truth table.
 
 ## 🔗 Explore More
-- **EDA Playground:** [https://edaplayground.com/x/XXXX](https://edaplayground.com/x/XXXX)  
-- **GitHub Repo:** [https://github.com/mitanshigaur09/Verilog](https://github.com/mitanshigaur09/Verilog)
+- **EDA Playground:** https://edaplayground.com/x/EqAt
+- **GitHub Repo:** https://github.com/mitanshigaur09/Verilog
 
 ---
 
