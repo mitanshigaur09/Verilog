@@ -24,7 +24,7 @@ The waveform and simulation log perfectly matched the theoretical truth table.
 
 ## 🔗 Explore More
 - **EDA Playground:** [https://edaplayground.com/x/XXXX](https://edaplayground.com/x/XXXX)  
-- **GitHub Repo:** [https://github.com/mitanshigaur/verilog-coding-streak](https://github.com/mitanshigaur/verilog-coding-streak)
+- **GitHub Repo:** [https://github.com/mitanshigaur09/Verilog](https://github.com/mitanshigaur09/Verilog)
 
 ---
 
