@@ -55,7 +55,7 @@ Time J K EN | Q Q\_bar
 
 ## 🔗 Resources  
 - [Run on EDA Playground](https://edaplayground.com/x/Txcq)  
-- [GitHub Repo](https://github.com/mitanshigaur/verilog)  
+- [GitHub Repo](https://github.com/mitanshigaur09/verilog)  
 
 ---
 
