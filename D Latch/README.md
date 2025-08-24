@@ -1,51 +1,34 @@
-# Day 23 – D Flip-Flop (Edge-Triggered)
+# Day 23 – D Latch (Level-Sensitive)
 
-## 📌 Topic
-Design and verification of a **D Flip-Flop** using Verilog.  
-The D flip-flop captures the input `D` only on the **clock edge**, unlike latches that are level-sensitive.
+## 📌 Problem Statement
+Design and simulate a **D Latch** using Verilog.  
+The D Latch is a fundamental **1-bit storage element** that is **level-sensitive**.
 
----
+## 📝 Design Details
+- **Inputs:** `D` (data), `Enable` (control)  
+- **Outputs:** `Q`, `Qbar`  
 
-## 🔧 Tool Used
-- Cadence **Xcelium** on **EDA Playground**
+**Behavior:**  
+- When `Enable = 1` → Q follows D (transparent mode)  
+- When `Enable = 0` → Q holds the last state (latch mode)
 
----
-
-## 📝 What I Did
-- Designed a positive-edge triggered **D Flip-Flop** with inputs:
-  - `D` → Data Input  
-  - `clk` → Clock  
-  - `rst` → Asynchronous Reset
-- Implemented the logic:
-  - On `posedge clk`, `Q <= D`
-  - On `rst=1`, `Q <= 0`
-- Wrote a testbench to verify:
-  - Store behavior on rising clock edge  
-  - Reset operation overriding stored value
-- Generated waveform (`dump.vcd`) for verification
-
----
+## ✅ What I did
+- Implemented the D Latch in Verilog using behavioral modeling  
+- Wrote a **testbench** to apply different values of `D` with both `Enable = 0` and `Enable = 1`  
+- Generated waveform (`dump.vcd`) for verification  
 
 ## 💡 Learning Highlight
-- The **D Flip-Flop** is the simplest and most widely used flip-flop  
-- It acts as a **1-bit memory element**  
-- Used in **registers, counters, shift registers, and memory design**
+- The **D Latch** solves the invalid state issue of the SR latch by having only one input.  
+- It is **transparent** when enabled and acts as a **memory element** when disabled.  
+- Used in registers, memory elements, and as a building block for flip-flops.
+
+## 📊 Simulation Results
+- `Enable=1` → Output Q instantly follows D  
+- `Enable=0` → Output Q remains stable regardless of D  
+- Waveform confirmed correct **transparent** and **hold** behavior
+
+## 🔗 Resources
+- [EDA Playground Simulation](https://edaplayground.com/x/qZkH)  
+- [GitHub Repo](https://github.com/mitanshigaur09/verilog)  
 
 ---
-
-## 📊 Observation
-- Waveform confirmed:
-  - `Q` follows `D` only at **posedge clk**  
-  - `rst=1` forced `Q=0` immediately  
-  - Correct **store & reset** functionality observed  
-
----
-
-## 🔗 Explore More
-- **EDA Playground Link:** [https://edaplayground.com/x/qZkH](https://edaplayground.com/x/qZkH)  
-- **GitHub Repo:** [https://github.com/mitanshigaur09/verilog](https://github.com/mitanshigaur09/verilog)
-
----
-
-## 🚀 Next Steps
-Up next → **T Flip-Flop & JK Flip-Flop** in sequential circuit design!
