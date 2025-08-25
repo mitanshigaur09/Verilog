@@ -44,7 +44,7 @@ Waveform and log outputs confirm correct functionality.
 
 ## 🔗 Explore More
 - ▶️ [EDA Playground Link](https://edaplayground.com/x/D3qE)  
-- 💻 [GitHub Repo](https://github.com/mitanshigaur09/verilog-coding-streak)
+- 💻 [GitHub Repo](https://github.com/mitanshigaur09/verilog)
 
 ---
 
