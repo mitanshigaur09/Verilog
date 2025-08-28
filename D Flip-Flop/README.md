@@ -27,8 +27,9 @@ Waveform file generated: **`d_ff.vcd`**
 ---
 
 🔗 **Explore More:**
-👉 EDA Playground Link: [https://edaplayground.com/x/7AxW](https://edaplayground.com/x/7AxW) 
-👉 GitHub Repo: [https://github.com/mitanshigaur09/verilog](https://github.com/mitanshigaur09/verilog)
+
+* 👉 EDA Playground Link: [https://edaplayground.com/x/7AxW](https://edaplayground.com/x/7AxW) 
+* 👉 GitHub Repo: [https://github.com/mitanshigaur09/verilog](https://github.com/mitanshigaur09/verilog)
 
 ---
 
