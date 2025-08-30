@@ -33,5 +33,3 @@ A **Serial-In Parallel-Out (SIPO) Shift Register** accepts serial data (one bit 
 🔗 **EDA Playground Link:** [https://edaplayground.com/x/Zq2m](https://edaplayground.com/x/Zq2m)
 
 ---
-
-Do you want me to also prepare a **Day 30 LinkedIn carousel content (slide-wise points)** so you can post it as a visual too?
