@@ -35,7 +35,7 @@ Wraps around naturally at 2^4 = 16
 
 ### 📉 Waveform
 
-![Waveform](Waveform.png)
+![Waveform](waveform.png)
 
 The waveform confirms correct counter operation, showing increment, hold, reset, and wrap-around behavior.
 
