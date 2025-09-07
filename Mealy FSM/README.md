@@ -36,7 +36,7 @@ The waveform clearly shows `dout=1` asserted **only at the clock cycle where "10
 ## ▶️ Run the Code
 
 Try it yourself on EDA Playground:
-🔗 EDA Playground Link: [https://edaplayground.com/x/XXXX](https://edaplayground.com/x/XXXX)
+🔗 EDA Playground Link: [https://edaplayground.com/x/HHHZ](https://edaplayground.com/x/HHHZ)
 
 ---
 
